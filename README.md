@@ -1,15 +1,15 @@
-# Html / CSS / JavaScript ☕
-Nesta seção você poderá encontrar aplicações feitas com estas tecnologias.<br> 
-[Voltar para lista geral de repositórios](https://github.com/ricardaonao/Portifolio) 😎
+# Html / CSS / JavaScript 🟢
+Escolha a tecnologia que deseja ver o exemplo, e clique no link.<br> 
+←[Voltar para lista geral de repositórios](https://github.com/ricardaonao/Portifolio)
 
 
 ___________________________________________________________________________________________________
-## Exemplos
+## Nativo 🛠
 * [CSS - Menu Drop Down]()
 * [JavaScript - Eventos]()
 
 
-## Frameworks / Bibliotecas
+## Frameworks / Bibliotecas 🧰
 * [Bootstrap]()
 * [Material-UI]()
 * [TailWind-CSS]()
