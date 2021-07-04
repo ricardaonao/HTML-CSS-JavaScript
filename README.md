@@ -4,8 +4,8 @@ Escolha a tecnologia ou ferramenta que deseja ver o exemplo, e clique no link.<b
 
 
 ___________________________________________________________________________________________________
-## Nativo 🛠
-* [CSS - Menu Drop Down]()
+## Nativo / Vanilla 🛠
+* [HTML / CSS - Menu Drop Down]()
 * [JavaScript - Eventos]()
 
 
@@ -13,7 +13,13 @@ ________________________________________________________________________________
 * [Bootstrap]()
 * [Material-UI]()
 * [TailWind-CSS]()
-* [SASS]()
+
+## Consumindo APIs 🔌
+* [Axios - Primeiros passos](https://github.com/ricardaonao/API-Node-Axios)
+* [Axios + React + Vercel - Ex: 01](https://github.com/ricardaonao/API-Node-Axios-React)
+* [Axios + React + Vercel - Ex: 02](https://github.com/ricardaonao/API-Node-Axios-React-Vercel-2)
+ 
+
 
 ___________________________________________________________________________________________________
 Ricardo Souza  - Web developer - Full-Stack
